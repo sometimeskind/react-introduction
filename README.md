@@ -4,7 +4,7 @@ A most basic React App created quickly for the Hacker Paradise #hackday group.
 
 ## Instructions
 
-pre-requisites: pm2 (`npm install -g pm2`), an internet connection
+recommended for development: pm2 (`npm install -g pm2`)
 
 ```
 $ git clone git@github.com:tomruttle/react-introduction.git
